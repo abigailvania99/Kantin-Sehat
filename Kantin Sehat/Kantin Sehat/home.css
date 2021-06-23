@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.content{
+    background-image: url('background.jpg');
+    text-align: center;
+}
+
+.textContent{
+  background-color: #ffffff;
+  opacity: 0.9;
+  font-size: 175%;
+
+}
+
